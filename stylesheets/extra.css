@@ -1,0 +1,109 @@
+/* Admonition CSS from v1.0.3*/
+.admonition:before {
+    font-family: Material Icons;
+    font-style: normal;
+    font-variant: normal;
+    font-weight: 400;
+    line-height: 1;
+    text-transform: none;
+    white-space: nowrap;
+    speak: none;
+    word-wrap: normal;
+    direction: ltr
+}
+.admonition {
+    position: relative;
+    margin: 1.5625em 0;
+    padding: .8rem 1.2rem;
+    border-left: 3.2rem solid rgba(68, 138, 255, .4);
+    border-radius: .2rem;
+    background-color: rgba(68, 138, 255, .15);
+    font-size: 1.28rem
+}
+.admonition:before {
+    position: absolute;
+    left: -2.6rem;
+    color: #fff;
+    font-size: 2rem;
+    content: "edit";
+    vertical-align: -.25em
+}
+.admonition:first-child {
+    margin-top: 0
+}
+.admonition:last-child {
+    margin-bottom: 0
+}
+.admonition.summary,
+.admonition.tldr {
+    border-color: rgba(0, 176, 255, .4);
+    background-color: rgba(0, 176, 255, .15)
+}
+.admonition.summary:before,
+.admonition.tldr:before {
+    content: "subject"
+}
+.admonition.hint,
+.admonition.important,
+.admonition.tip {
+    border-color: rgba(0, 191, 165, .4);
+    background-color: rgba(0, 191, 165, .15)
+}
+.admonition.hint:before,
+.admonition.important:before,
+.admonition.tip:before {
+    content: "whatshot"
+}
+.admonition.check,
+.admonition.done,
+.admonition.success {
+    border-color: rgba(0, 230, 118, .4);
+    background-color: rgba(0, 230, 118, .15)
+}
+.admonition.check:before,
+.admonition.done:before,
+.admonition.success:before {
+    content: "done"
+}
+.admonition.attention,
+.admonition.caution,
+.admonition.warning {
+    border-color: rgba(255, 145, 0, .4);
+    background-color: rgba(255, 145, 0, .15)
+}
+.admonition.attention:before,
+.admonition.caution:before,
+.admonition.warning:before {
+    content: "warning"
+}
+.admonition.fail,
+.admonition.failure,
+.admonition.missing {
+    border-color: rgba(255, 82, 82, .4);
+    background-color: rgba(255, 82, 82, .15)
+}
+.admonition.fail:before,
+.admonition.failure:before,
+.admonition.missing:before {
+    content: "clear"
+}
+.admonition.danger,
+.admonition.error {
+    border-color: rgba(255, 23, 68, .4);
+    background-color: rgba(255, 23, 68, .15)
+}
+.admonition.danger:before,
+.admonition.error:before {
+    content: "flash_on"
+}
+.admonition.bug {
+    border-color: rgba(245, 0, 87, .4);
+    background-color: rgba(245, 0, 87, .15)
+}
+.admonition.bug:before {
+    content: "bug_report"
+}
+.admonition-title {
+    font-weight: 700
+}
+
