@@ -11,14 +11,6 @@
 
     
     <url>
-     <loc>/introduction/</loc>
-     <lastmod>2017-11-23</lastmod>
-     <changefreq>daily</changefreq>
-    </url>
-    
-
-    
-    <url>
      <loc>/getting-started/</loc>
      <lastmod>2017-11-23</lastmod>
      <changefreq>daily</changefreq>
@@ -36,61 +28,53 @@
     
         
     <url>
-     <loc>/cust-reg-func/</loc>
+     <loc>/wordpress-customizer-snippets/add-register-function/</loc>
      <lastmod>2017-11-23</lastmod>
      <changefreq>daily</changefreq>
     </url>
         
     <url>
-     <loc>/cust-panel/</loc>
+     <loc>/wordpress-customizer-snippets/add-panel/</loc>
      <lastmod>2017-11-23</lastmod>
      <changefreq>daily</changefreq>
     </url>
         
     <url>
-     <loc>/cust-section/</loc>
+     <loc>/wordpress-customizer-snippets/add-section/</loc>
      <lastmod>2017-11-23</lastmod>
      <changefreq>daily</changefreq>
     </url>
         
     <url>
-     <loc>/cust-setting/</loc>
+     <loc>/wordpress-customizer-snippets/add-setting/</loc>
      <lastmod>2017-11-23</lastmod>
      <changefreq>daily</changefreq>
     </url>
         
     <url>
-     <loc>/cust-basic-control/</loc>
+     <loc>/wordpress-customizer-snippets/add-basic-control/</loc>
      <lastmod>2017-11-23</lastmod>
      <changefreq>daily</changefreq>
     </url>
         
     <url>
-     <loc>/cust-ctr-clr/</loc>
+     <loc>/wordpress-customizer-snippets/add-control-color/</loc>
      <lastmod>2017-11-23</lastmod>
      <changefreq>daily</changefreq>
     </url>
         
     <url>
-     <loc>/cust-ctr-img/</loc>
+     <loc>/wordpress-customizer-snippets/add-control-image/</loc>
      <lastmod>2017-11-23</lastmod>
      <changefreq>daily</changefreq>
     </url>
         
     <url>
-     <loc>/cust-upload/</loc>
+     <loc>/wordpress-customizer-snippets/add-file-upload/</loc>
      <lastmod>2017-11-23</lastmod>
      <changefreq>daily</changefreq>
     </url>
         
-    
-
-    
-    <url>
-     <loc>/end/</loc>
-     <lastmod>2017-11-23</lastmod>
-     <changefreq>daily</changefreq>
-    </url>
     
 
     
