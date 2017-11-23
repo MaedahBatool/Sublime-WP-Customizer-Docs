@@ -1,6 +1,6 @@
 # → Adding a Customizer Basic Control
 
-Let's add a **new Basic Control** field. Type `wpC` in the Sublime Text and choose `wpCustomizerAddControlBasic`.
+To add a **new Basic Control** field type `wpC` in the Sublime Text and choose `wpCustomizerAddControlBasic`.
 
 ![](/media/7.png)
 

@@ -1,13 +1,31 @@
 # ⚡️Tab Triggered Snippets
 
-Like I’ve mentioned, all the snippets are **tab triggered** which are aimed to bring ease to your workflow. All you have to do is **select a snippet** and then press the **tab button** to go from one editable part to another. With `Sublime-WP-Customizer` you can add the following snippets:
+In Sublime-WP-Customizer, all the snippets are **tab triggered** which are aimed to bring ease to your workflow. Just **select a snippet** and then press the **tab button** to go from one editable part to another. 
 
-- **WP Customize Add Panel**: Adds a new panel in the Customizer. The tab trigger is: `wpCustomizerAddPanel`.
-- **WP Customize Add Section**: Adds a new Section in the Customizer. The tab trigger is: `wpCustomizerAddSection`.
-- **WP Customize Add Setting**: Adds a new setting which gets saved in your database. The tab trigger is: `wpCustomizerAddSetting`.
-- **WP Customize Add Control Basic**: Adds a basic control field. The tab trigger is: `wpCustomizerAddControlBasic`.
-- **WP Customize Add Control Image**: Adds a control field for an image. The tab trigger is: `wpCustomizerAddControlImage`.
-- **WP Customize Add Control Upload**: Adds a new control field for uploading any file. The tab trigger is: `wpCustomizerAddControlUpload`.
-- **WP Customize Add Control Color**: Adds a control field for the color picker. The tab trigger is: `wpCustomizerAddControlColor`.
-- **WP Customize postMessage JS Basic**: A basic JS snippet for transport/refresh option. The tab trigger is: `wpCustomizerPostMessageJSBasic`.
-- **WP Customize Register Function**: Creates a function to hook inside the WP Customizer. The tab trigger is: `wpCustomizerRegisterFunction`.
+With `Sublime-WP-Customizer` you can add the following snippets:
+
+### ⚙ WP Customize Add Panel 
+ The tab trigger `wpCustomizerAddPanel` adds a new **Panel** in the Customizer.
+
+### ⚙ WP Customize Add Section
+The tab trigger `wpCustomizerAddSection` adds a new **Section** in the Customizer. 
+
+### ⚙ WP Customize Add Setting
+The tab trigger `wpCustomizerAddSetting` adds a new **Setting** which gets saved in your database. 
+
+### ⚙ WP Customize Add Control Basic
+The tab trigger `wpCustomizerAddControlBasic` adds a **Basic Control** field.
+
+### ⚙ WP Customize Add Control Image
+The tab trigger `wpCustomizerAddControlImage` adds a control field for an **Image**. 
+
+### ⚙ WP Customize Add Control Upload
+The tab trigger `wpCustomizerAddControlUpload` adds a new control field to **Upload** any file.
+### ⚙ WP Customize Add Control Color
+The tab trigger `wpCustomizerAddControlColor` adds a control field for the **Color** picker.
+
+### ⚙ WP Customize postMessage JS Basic
+The tab trigger `wpCustomizerPostMessageJSBasic` adds a basic JS snippet for **Transport/Refresh** option. 
+
+### WP Customize Register Function
+The tab trigger `wpCustomizerRegisterFunction` creates a **function** to hook inside the WP Customizer.

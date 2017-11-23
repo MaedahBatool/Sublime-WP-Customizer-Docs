@@ -16,7 +16,7 @@ theme:
   logo:
       icon: 'bookmark'
   palette:
-    primary: 'light blue'
+    primary: 'blue'
     accent: 'indigo'
   font:
       text: 'Ubuntu'
@@ -24,21 +24,19 @@ theme:
 extra_css:
   - 'stylesheets/extra.css'
 pages:
-  - 1. START HERE: index.md
-  - 2. INTRODUCTION: introduction.md
-  - 3. GETTING STARTED: getting-started.md
-  - 4. SNIPPETS: snippets.md
-  - 5. IMPLEMENTATION:
-        - Adding a Customizer Register Function: cust-reg-func.md
-        - Adding a Cutsomizer Panel: cust-panel.md
-        - Adding a Customizer Section: cust-section.md
-        - Adding a Customizer Setting: cust-setting.md
-        - Adding a Customizer Control: cust-basic-control.md
-        - Adding a Customizer Color: cust-ctr-clr.md
-        - Adding a Customizer Image: cust-ctr-img.md
-        - Adding a Customizer Upload: cust-upload.md
-  - 6. End: end.md
-  - 7. SYNTAX: eg.md
+  - 1. INTRODUCTION: index.md
+  - 2. GETTING STARTED: getting-started.md
+  - 3. SNIPPETS REFERENCE: snippets.md
+  - 4. IMPLEMENTATION:
+        - Adding a Register Function: wordpress-customizer-snippets/add-register-function.md
+        - Adding a Cutsomizer Panel: wordpress-customizer-snippets/add-panel.md
+        - Adding a Customizer Section: wordpress-customizer-snippets/add-section.md
+        - Adding a Customizer Setting: wordpress-customizer-snippets/add-setting.md
+        - Adding a Customizer Control: wordpress-customizer-snippets/add-basic-control.md
+        - Adding a Customizer Color: wordpress-customizer-snippets/add-control-color.md
+        - Adding a Customizer Image: wordpress-customizer-snippets/add-control-image.md
+        - Adding a Customizer Upload: wordpress-customizer-snippets/add-file-upload.md
+  - 5. SYNTAX: eg.md
 
 markdown_extensions:
   - admonition

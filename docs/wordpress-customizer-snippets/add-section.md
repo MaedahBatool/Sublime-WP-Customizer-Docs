@@ -20,4 +20,4 @@ $wp_customize->add_section( 'prefix_section_id', array(
 ) );
 ```
 
-Once again you can edit its contents by pressing the **tab** button.
+Again you can edit its contents by pressing the **tab** button.

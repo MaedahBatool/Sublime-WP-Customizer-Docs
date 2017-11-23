@@ -1,6 +1,6 @@
 # → Adding a Customizer Setting
 
-To add a **new Setting** type `wpC` in the Sublime Text and choose `wpCustomizerAddSetting`. Note that you’ll add **Setting** before **Control** options.
+To add a **new Setting** type `wpC` in the Sublime Text choose `wpCustomizerAddSetting`. Note that you’ll add **Setting** before **Control** options.
 
 ![](/media/6.png)
 
@@ -21,4 +21,4 @@ $wp_customize->add_setting( 'prefix_id', array(
 ```
 
 !!! warning "REMEMBER" 
-    Remember to add the setting before you add a control. Since a control needs to be attached to a setting which should be defined before the control definition.
+    Add the setting before you add a control. Since a control needs to be attached to a setting which should be defined before the control definition.

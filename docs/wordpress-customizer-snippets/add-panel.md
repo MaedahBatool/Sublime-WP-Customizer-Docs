@@ -1,6 +1,6 @@
 ## → Adding a Customizer Panel
 
-To add a **new Panel** type `wpC` in the Sublime Text and a menu appears, so choose `wpCustomizerAddPanel`.
+To add a **new Panel** type `wpC` in the Sublime Text and a menu appears, choose `wpCustomizerAddPanel`.
 
 ![](/media/4.png)
 
