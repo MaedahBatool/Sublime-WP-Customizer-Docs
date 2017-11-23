@@ -12,6 +12,8 @@ The process of creating Customizer components begin with adding a **register fun
 
 This snippet produces the following code, which you can edit by **changing prefix** and other things — all of that by pressing the **tab** key.
 
+The WordPress Customizer snippets outputs the following code:
+
 ```
 <?php
 // Customize function.

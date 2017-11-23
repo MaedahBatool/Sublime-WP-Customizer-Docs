@@ -4,7 +4,7 @@ To add a **new Section** type `wpC` in the Sublime Text and choose `wpCustomizer
 
 ![](/media/5.png)
 
-The snippet appears like this:
+The WordPress Customizer snippets outputs the following code:
 
 ```
 <?php

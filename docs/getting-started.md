@@ -1,5 +1,7 @@
 # ▶︎ Getting Started
 
+Getting started with Sublime-WP-Customizer snippets is very easy. All you have to do is download the Sublime Text Editor and start building customizer settings and options.
+
 !!! INFO "INFO"
     To get started you need to **download** it first. You can do so from the following links:
 

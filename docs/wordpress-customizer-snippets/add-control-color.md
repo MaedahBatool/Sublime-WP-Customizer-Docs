@@ -6,8 +6,7 @@
 Let’s create a **Color Picker**. Type `wpC` in the Sublime Text and choose `wpCustomizerAddControlColor`.
 
 ![](/media/8.png)
-
-Hit the **Enter** button to view the snippet’s code.
+The WordPress Customizer snippets outputs the following code:
 
 ```
 <?php

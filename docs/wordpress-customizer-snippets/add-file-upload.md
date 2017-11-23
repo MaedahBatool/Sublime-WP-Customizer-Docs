@@ -4,7 +4,7 @@ To add a **file uploader** field in your Customizer type `wpC` in the Sublime Te
 
 ![](/media/10.png)
 
-Here is the code.
+The WordPress Customizer snippets outputs the following code:
 
 ```
 <?php

@@ -26,7 +26,7 @@ extra_css:
 pages:
   - 1. INTRODUCTION: index.md
   - 2. GETTING STARTED: getting-started.md
-  - 3. SNIPPETS REFERENCE: snippets.md
+  - 3. SNIPPET REFERENCE: snippet.md
   - 4. IMPLEMENTATION:
         - Adding a Register Function: wordpress-customizer-snippets/add-register-function.md
         - Adding a Cutsomizer Panel: wordpress-customizer-snippets/add-panel.md
@@ -36,7 +36,6 @@ pages:
         - Adding a Customizer Color: wordpress-customizer-snippets/add-control-color.md
         - Adding a Customizer Image: wordpress-customizer-snippets/add-control-image.md
         - Adding a Customizer Upload: wordpress-customizer-snippets/add-file-upload.md
-  - 5. SYNTAX: eg.md
 
 markdown_extensions:
   - admonition

@@ -4,7 +4,7 @@ Let’s create an **image field** with this package. Type `wpC` in the Sublime T
 
 ![](/media/9.png)
 
-The code snippet goes like this:
+The WordPress Customizer snippets outputs the following code:
 
 ```
 <?php

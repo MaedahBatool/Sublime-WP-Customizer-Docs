@@ -5,6 +5,7 @@ To add a **new Panel** type `wpC` in the Sublime Text and a menu appears, choose
 ![](/media/4.png)
 
 Hit **Enter** and its snippet will be posted. Now just press the **tab** button to move from one editable area to another.
+The WordPress Customizer snippets outputs the following code:
 
 ```
 <?php

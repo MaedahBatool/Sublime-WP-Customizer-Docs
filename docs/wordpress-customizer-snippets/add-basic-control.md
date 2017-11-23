@@ -4,7 +4,7 @@ To add a **new Basic Control** field type `wpC` in the Sublime Text and choose `
 
 ![](/media/7.png)
 
-The snippet has the following lines of code.
+The WordPress Customizer snippets outputs the following code:
 
 ```
 <?php

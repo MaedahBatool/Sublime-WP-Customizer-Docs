@@ -4,7 +4,7 @@ To add a **new Setting** type `wpC` in the Sublime Text choose `wpCustomizerAddS
 
 ![](/media/6.png)
 
-Hit **Enter** and the code snippet appears like:
+The WordPress Customizer snippets outputs the following code:
 
 ```
 <?php
