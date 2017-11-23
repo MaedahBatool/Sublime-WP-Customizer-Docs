@@ -19,7 +19,7 @@
 
     
     <url>
-     <loc>/snippets/</loc>
+     <loc>/snippet/</loc>
      <lastmod>2017-11-23</lastmod>
      <changefreq>daily</changefreq>
     </url>
@@ -75,14 +75,6 @@
      <changefreq>daily</changefreq>
     </url>
         
-    
-
-    
-    <url>
-     <loc>/eg/</loc>
-     <lastmod>2017-11-23</lastmod>
-     <changefreq>daily</changefreq>
-    </url>
     
 
 </urlset>
