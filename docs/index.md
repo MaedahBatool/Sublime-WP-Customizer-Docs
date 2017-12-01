@@ -1,4 +1,4 @@
-# 🍒 Sublime WordPress Customizer Package
+# ⚡️ Sublime WordPress Customizer Package
 
 Since WordPress 3.4, the [Theme Customization API](https://codex.wordpress.org/Theme_Modification_API) has emerged as an important `PHP` and `JavaScript` based API in core. It introduced developers to a standardized way of adding theme options in the **Customizer Panel** of the WordPress Dashboard.
 
@@ -41,6 +41,6 @@ This documentation guide helps you create **WordPress Customizer Theme/Plugin Op
 !!! success "STATS"
     - We open sourced this package and more than **5,000 developers** are already using it.
     - [WordPress Customizer Package](https://packagecontrol.io/packages/WordPress%20Customizer) for Sublime Text is now featured on the homepage of PacakgeControl.io as the 9th most trending package. Yay! ⓦ
-    - [Sarah](https://twitter.com/pollyplummer) featured the package at [WPTavern: Ahmad Awais Releases WordPress Customizer Package for Sublime Text](https://twitter.com/pollyplummer) Yay!
-    - WordPress Customizer Package for Sublime Text is the 2nd most relevant and 10th most popular Sublime package for WP.
+    - [Sarah Gooding](https://twitter.com/pollyplummer) featured the package at [WPTavern: Ahmad Awais Releases WordPress Customizer Package for Sublime Text](https://twitter.com/pollyplummer) Yay!
+    - WordPress Customizer Package for Sublime Text is the 2nd most relevant and 10th most popular Sublime package for WordPress.
 
